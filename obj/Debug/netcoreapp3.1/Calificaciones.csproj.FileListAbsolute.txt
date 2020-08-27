@@ -1,0 +1,13 @@
+C:\Users\lucia\source\repos\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.exe
+C:\Users\lucia\source\repos\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.deps.json
+C:\Users\lucia\source\repos\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.runtimeconfig.json
+C:\Users\lucia\source\repos\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.runtimeconfig.dev.json
+C:\Users\lucia\source\repos\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.dll
+C:\Users\lucia\source\repos\Calificaciones\bin\Debug\netcoreapp3.1\Calificaciones.pdb
+C:\Users\lucia\source\repos\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.csprojAssemblyReference.cache
+C:\Users\lucia\source\repos\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.AssemblyInfo.cs
+C:\Users\lucia\source\repos\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.dll
+C:\Users\lucia\source\repos\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.pdb
+C:\Users\lucia\source\repos\Calificaciones\obj\Debug\netcoreapp3.1\Calificaciones.genruntimeconfig.cache
